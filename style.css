@@ -1,0 +1,14 @@
+fieldset {
+    width: 150px;
+    border-color: rgb(255, 0, 0);
+    text-align: center;
+}
+fieldset h2 {
+    
+    padding-bottom: 5px;
+}
+.content {
+    margin-top: 20px;
+    margin-left: 40%;
+    
+}
